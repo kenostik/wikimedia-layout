@@ -1,0 +1,56 @@
+html, body {
+	height: 100%;
+	width:100%;
+}
+.text {
+	font-family: sans-serif;
+}
+.con {
+	height: 100%;
+	width: 70%;
+	margin: 0 auto;
+}
+.info {
+	margin: 20px auto;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+.welcome {
+	display: flex;
+	justify-content: flex-end;
+}
+.imgCont {
+	width:100%;
+	min-width: 700px;
+	display: flex;
+	justify-content:space-between:;
+	flex-direction: column;
+	align-content: center;
+}
+
+.row {
+	width:100%;
+	min-width: 
+	margin: 10px auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+	flex-direction: row;
+	align-content: center;
+
+}
+img {
+	margin: 10% 5px;
+}
+.tag {
+	margin: 5px auto;
+	width: 80%;
+	text-align: center;
+	border-top: 2px  solid #999 ;
+}
+footer{
+	margin: 10px auto;
+	text-align: center;
+
+
+}
